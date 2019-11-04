@@ -7,7 +7,9 @@
     width: extend-to-zoom;
     zoom: 1.0;
 }
-
+html{
+    font-family: source sans pro;
+}
 #homepage{
     background-color: black;
 }
