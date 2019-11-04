@@ -7,7 +7,7 @@
     width: extend-to-zoom;
     zoom: 1.0;
 }
-html{
+body{
     font-family: source sans pro;
 }
 #homepage{
