@@ -104,6 +104,7 @@ h1{
 .catagorie img{
     height: 8em;
     width: 8em;
+    margin-left: 2em;
 }
 
 .catagorie p{
