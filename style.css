@@ -128,29 +128,29 @@ h1{
     font-family: avenir;
 }
 
-ol{
-    text-align: center;
+#niveau ol{
     font-family: source sans pro;
+}
+
+#niveau li{
     list-style: none;
     text-align: center;
 }
 #level {
     padding: 1.5em 0em 2em 0em;
 }
-.score{
-    padding: 1em 0em 3em 0em;
-}
 
 .niveau{
     background-color: black;
     color: white;
     padding: 0.8em 0em 0.8em 0em;
-    margin: 0;
-    width: 80%;
-    margin: auto;
+    width: 10em;
     color: red;
     font-weight: 600;
-    justify-content: center;
+    margin-left: 1em;
+}
+.niveau p{
+margin-left: 1em;
 }
 
 a{
@@ -164,10 +164,14 @@ a{
 }
 
 .house p{
-    display:flex;
-    justify-content: center;
+    text-align: center;
     margin: auto;
     font-family: avenir;
+}
+
+.house li{
+    text-align: center;
+    list-style: none;
 }
 
 #vervoer{
@@ -183,4 +187,8 @@ a{
     font-weight: 700;
     font-size: 1.5em;
 
+}
+
+#catagorie h1{
+    text-align: center;
 }
