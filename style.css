@@ -155,6 +155,7 @@ margin-left: 1em;
 
 a{
     text-decoration: none;
+    color: black;
 }
 
 #huis{
@@ -191,4 +192,8 @@ a{
 
 #catagorie h1{
     text-align: center;
+}
+
+.pagina{
+    width: 100%;
 }
