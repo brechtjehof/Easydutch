@@ -109,6 +109,7 @@ h1{
 
 .catagorie li{
     margin-left: 0;
+    justify-content: center;
 }
 .catagorie p{
     font-family: avenir;
@@ -148,6 +149,7 @@ ol{
     margin: auto;
     color: red;
     font-weight: 600;
+    justify-content: center;
 }
 
 a{
