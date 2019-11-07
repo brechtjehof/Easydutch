@@ -104,11 +104,11 @@ h1{
 .catagorie img{
     height: 8em;
     width: 8em;
-    margin-left: 2em;
+    margin-left: 0;
 }
 
 .catagorie li{
-    margin-left: 2em;
+    margin-left: 0;
 }
 .catagorie p{
     font-family: avenir;
