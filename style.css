@@ -100,16 +100,20 @@ h1{
 #vlag{
     margin-left: 0em;
 }
+.catagorie{
+    display: flex;
+    justify-content: center;
+}
 
 .catagorie img{
     height: 8em;
     width: 8em;
     margin-left: 0;
+    padding: 2em;
 }
 
 .catagorie li{
-    margin-left: 0;
-    justify-content: center;
+    list-style: none;
 }
 .catagorie p{
     font-family: avenir;
@@ -122,10 +126,6 @@ h1{
     text-decoration: none;
     color: black;
     font-family: avenir;
-}
-
-.catagorie:hover{
-    color: red;
 }
 
 ol{
